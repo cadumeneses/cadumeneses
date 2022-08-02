@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello! I'm Carlos Eduardo 👋
 
-<!--
-**cadumeneses/cadumeneses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on developer angular
+- 🌱 I’m currently learning angular
+- 😄 Pronouns: he/his
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/cadumeneses">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=cadumeneses&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadumeneses&layout=compact&langs_count=16&theme=dracula">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+  
+</div>
