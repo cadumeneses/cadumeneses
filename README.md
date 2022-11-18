@@ -1,7 +1,7 @@
 ## Hello! I'm Carlos Eduardo 👋
 
 - 🔭 I’m currently working on developer mobile flutter
-- 🌱 I’m currently learning flutter advanced
+- 🌱 I’m currently learning flutter advanced and java
 - 😄 Pronouns: he/his
 
 <div>
